@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitri166
-- 👀 I’m interested in Python, Data science, Data analytics
-- 🌱 I’m currently learning Java  
+- 👀 I’m interested in  Data science, Data analytics, Machine Learning, Artificial Intelligence
 - 📫 How to reach me - https://www.linkedin.com/in/neetika-tripathi-997466190/
+- Skill - C++, C, Python, SQL, Linux, Cloud Computing
 
 <!---
 nitri166/nitri166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
