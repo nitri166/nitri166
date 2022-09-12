@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitri166
-- 👀 I’m interested in Data analytics, Machine Learning, Artificial Intelligence
+- 👀 I’m interested in Backend Development, Machine Learning, Artificial Intelligence
 - 📫 How to reach me - https://www.linkedin.com/in/neetika-tripathi-997466190/
 - Skills - C++, C, Python, SQL, Linux, Cloud Computing
 
