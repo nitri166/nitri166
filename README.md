@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Neetika
-- 👀 I’m interested in Data Engineering, Machine Learning, Artificial Intelligence
 - 📫 How to reach me - https://www.linkedin.com/in/neetika-tripathi-997466190/
 - Skills - Python, SQL, C++ Linux, Cloud Computing, Kafka
 
