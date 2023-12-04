@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neetika
-- Enthusitastic about Full Stack Development
+- Enthusitastic about Technology
 
 <!---
 nitri166/nitri166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
